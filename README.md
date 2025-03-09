@@ -15,3 +15,4 @@ Firebase for secure authentication and efficient data management.
 Nativewind for elegant and adaptable UI design.
 Expendigo helps users track and manage expenses effortlessly, enhancing financial organization across multiple cities.
 
+![Expendigo](https://github.com/user-attachments/assets/3d486145-8fd4-4d9f-aa7e-fb41e3e3a20b)
